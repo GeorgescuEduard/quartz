@@ -1,7 +1,9 @@
 ---
 title: Home
 ---
-Welcome to my website created and published by using <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/2048px-2023_Obsidian_logo.svg.png" width=20px> [Obsidian](https://obsidian.md/) + 🌱[Quartz](https://quartz.jzhao.xyz/), and hosted with [Vercel](https://vercel.com/).
+![[profile-picture-modified.png| 125]]
+
+Welcome to my website created and published by using <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/2048px-2023_Obsidian_logo.svg.png" width=20px align=bottom> [Obsidian](https://obsidian.md/) + 🌱[Quartz](https://quartz.jzhao.xyz/), and hosted with [Vercel](https://vercel.com/).
 
 > [!INFO] Currently seeking for new opportunities
 > I am currently seeking a job in **Romania** or other countries that allow fully working remote.
@@ -18,6 +20,9 @@ With my passion for programming, web development and video games, I became opera
 The website might be difficult to navigate, so there are some site link points that could be useful.
 
 
-## Social Media
+## Social Links
 ---
-<button style="width:33%; height:50px"><h3>&nbsp; LinkedIn</h3></button><a href="https://github.com/GeorgescuEduard" target=_blank><button style="width:32%; height:50px"><h3>&nbsp; GitHub</h3></button></a> <a href="https://www.facebook.com/georgescu.eduard7" target=_blank><button style="width:33%; height:50px"><h3>&nbsp; Facebook</h3></button></a>
+- [GitHub](https://github.com/GeorgescuEduard)
+- [LinkedIn](https://www.linkedin.com/in/eduard-georgescu/)
+- [Gmail](mailto:georgescu.ioneduard@gmail.com)
+- [Steam](https://steamcommunity.com/profiles/76561198197029235/)
