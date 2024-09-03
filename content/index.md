@@ -1,7 +1,9 @@
 ---
 title: Home
 ---
-![[profile-picture-modified.png| 125]]
+![[profile-picture-modified.png#floatCenter|center|125]]
+
+<center><sup>Eduard</sup></center>
 
 Welcome to my website created and published by using <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/2048px-2023_Obsidian_logo.svg.png" width=20px align=bottom> [Obsidian](https://obsidian.md/) + 🌱[Quartz](https://quartz.jzhao.xyz/), and hosted with [Vercel](https://vercel.com/).
 
