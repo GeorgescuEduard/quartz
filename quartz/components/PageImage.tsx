@@ -12,7 +12,7 @@ const PageImage: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 
 PageImage.css = `
 .page-image {
-  width:100%;
+  width:85%;
 }
 `
 
