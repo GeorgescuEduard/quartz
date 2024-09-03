@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-Welcome to my website created and published by using <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/2048px-2023_Obsidian_logo.svg.png" width=20px align=bottom> [Obsidian](https://obsidian.md/) + 🌱[Quartz](https://quartz.jzhao.xyz/), and hosted with [Vercel](https://vercel.com/).
+Welcome to my website created and published by using [Obsidian](https://obsidian.md/) + 🌱[Quartz](https://quartz.jzhao.xyz/), and hosted with [Vercel](https://vercel.com/).
 
 > [!INFO] Currently seeking for new opportunities
 > I am currently seeking a job in **Romania** or other countries that allow fully working remote.
