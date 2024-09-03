@@ -6,13 +6,13 @@ import { i18n } from "../i18n"
 const PageImage: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <img id="profile-picture" src="/images/profile-picture-modified.png" className={"page-image"}></img>
+    <img id="profile-picture" src="/images/profile-picture.jpg" className={"page-image"}></img>
   )
 }
 
 PageImage.css = `
 .page-image {
-  width:50%;
+  width:100%;
 }
 `
 
