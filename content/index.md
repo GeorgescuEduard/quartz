@@ -20,4 +20,4 @@ The website might be difficult to navigate, so there are some site link points t
 
 ## Social Media
 ---
-<a href="https://www.linkedin.com/in/eduard-georgescu/" target=_blank><button style="width:33%; height:50px"><h3>&nbsp; LinkedIn</h3></button></a> <a href="https://github.com/GeorgescuEduard" target=_blank><button style="width:32%; height:50px"><h3>&nbsp; GitHub</h3></button></a> <a href="https://www.facebook.com/georgescu.eduard7" target=_blank><button style="width:33%; height:50px"><h3>&nbsp; Facebook</h3></button></a>
+<button style="width:33%; height:50px"><h3>&nbsp; LinkedIn</h3></button><a href="https://github.com/GeorgescuEduard" target=_blank><button style="width:32%; height:50px"><h3>&nbsp; GitHub</h3></button></a> <a href="https://www.facebook.com/georgescu.eduard7" target=_blank><button style="width:33%; height:50px"><h3>&nbsp; Facebook</h3></button></a>
