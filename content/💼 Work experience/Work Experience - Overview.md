@@ -1,0 +1,1 @@
+Mostly, I worked at Ubisoft as an Quality Control Tester, or Game Testers 
