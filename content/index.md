@@ -1,7 +1,7 @@
 ---
-title: Home
+title: 🏠 Home
 ---
-Welcome to my website created by using ![[obsidian-logo-gradient.png|15]][Obsidian](https://obsidian.md/) and 🌱[Quartz](https://quartz.jzhao.xyz/), and published with [Vercel](https://vercel.com/).
+Welcome to my website created by using ![[obsidian-logo-gradient.png|15]][Obsidian](https://obsidian.md/) and 🌱[Quartz](https://quartz.jzhao.xyz/), and published with ![[vercel-logo.png|15]] [Vercel](https://vercel.com/).
 
 I am a 25-year-old ***Quality Control Tester***, armed with a Master's degree in Computer Science and Pedagogy and with over **4 years** of work experience in ensuring the utmost standards of software quality and performance.
 
@@ -15,13 +15,11 @@ With my passion for programming, web development and video games, I became opera
 
 ## Website Navigation
 ---
-The website contains different sections that presents things 🌠[[About me - Overview|about me]], 💼[[Work Experience - Overview|my work]] and experience, 📄[[Education - Overview|my education]] and other 📌[[Projects - Overview|projects]] and things that I am working on, or I like doing in my free time.
+The website contains different sections that presents things 🌠[[About me|about me]], 💼[[Work Experience|my work]] and experience, 📄[[Education|my education]] and other 📌[[Projects|projects]] and things that I am working on, or I like doing in my free time.
 
-You can also use the explorer in the left side of the screen to browse through the website. Please feel free to browse any of these sections that interests you.
+I recommend you to browse the ⭐[[About me|Overview]] folder, as this one contains a sum-up of the most important things that you can learn about me, you can also use the explorer in the left side of the screen to browse through the website sections that interests you.
 
 For a more ***scary*** view of the content in this website, you can click on the graph placed on the top-right side of the screen and navigate the site using it.
-<center><h1>🧠</h1></center>
-
 ## Social Links
 ---
 You can use any of the following links to contact me, or play some games together. 

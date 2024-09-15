@@ -1,3 +1,0 @@
-[[License]]
-[[Master]]
-[[Pedagogy]]

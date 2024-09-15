@@ -1,4 +1,3 @@
+#about_me 
 
-
----
-# Everything I've learned
+Everything I've learned
