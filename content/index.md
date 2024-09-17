@@ -22,8 +22,12 @@ I recommend you to browse the ⭐[[About me|Overview]] folder, as this one conta
 For a more ***scary*** view of the content in this website, you can click on the graph placed on the top-right side of the screen and navigate the site using it.
 ## Social Links
 ---
-You can use any of the following links to contact me, or play some games together. 
+You can use any of the following links to contact me, or play some games together.
 - [GitHub](https://github.com/GeorgescuEduard)
 - [LinkedIn](https://www.linkedin.com/in/eduard-georgescu/)
 - [Gmail](mailto:georgescu.ioneduard@gmail.com)
 - [Steam](https://steamcommunity.com/profiles/76561198197029235/)
+
+<button onclick="location.href = 'https://steamcommunity.com/profiles/76561198197029235/';" id="steamButton"><img src="https://1simplegame.com/wp-content/themes/1simplegametheme/img/Steam_icon_logo.png)" width=15px>Steam</button>
+
+
