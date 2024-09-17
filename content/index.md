@@ -23,11 +23,5 @@ For a more ***scary*** view of the content in this website, you can click on the
 ## Social Links
 ---
 You can use any of the following links to contact me, or play some games together.
-- [GitHub](https://github.com/GeorgescuEduard)
-- [LinkedIn](https://www.linkedin.com/in/eduard-georgescu/)
-- [Gmail](mailto:georgescu.ioneduard@gmail.com)
-- [Steam](https://steamcommunity.com/profiles/76561198197029235/)
 
-<button onclick="location.href = 'https://steamcommunity.com/profiles/76561198197029235/';" id="steamButton"><img src="https://1simplegame.com/wp-content/themes/1simplegametheme/img/Steam_icon_logo.png)" width=15px>Steam</button>
-
-
+<button style="width:24%; height:45px; border-radius: 6px;" onclick="location.href = 'https://github.com/GeorgescuEduard';" id="gitButton"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=20px>&nbsp;GitHub</button> <button style="width:24%; height:45px; border-radius: 6px;" onclick="location.href = 'https://www.linkedin.com/in/eduard-georgescu/';" id="linkedInButton"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px>&nbsp;LinkedIn</button> <button style="width:25%; height:45px; border-radius: 6px;" onclick="location.href = 'mailto:georgescu.ioneduard@gmail.com';" id="gmailButton"><img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" width=20px>&nbsp;Gmail</button> <button style="width:24%; height:45px; border-radius: 6px;" onclick="location.href = 'https://steamcommunity.com/profiles/76561198197029235/';" id="steamButton"><img src="https://1simplegame.com/wp-content/themes/1simplegametheme/img/Steam_icon_logo.png)" width=20px>&nbsp;Steam</button>
