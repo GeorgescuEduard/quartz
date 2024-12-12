@@ -16,7 +16,7 @@ The entire build cost me around **7500 RON**, and here are the parts:
 - Case: Deepcool CG540 Middle Tower
 - Main Display: MSI Optix 27" IPS 1080p 144hz
 
-The PC is working really good and I can play most of the newly released games at 144 FPS - 1080p - Medium to Ultra settings. If I am playing an single player game, then I would use high or ultra settings. But if I am playing a pvp competitive game I like to lower the graphics settings to medium so there are fewer effects on the screen that distract me.
+The PC is working really good and I can play most of the newly released games at 144 FPS - 1080p - Medium to Ultra settings. If I am playing a single player game, then I would use high or ultra settings. But if I am playing a pvp competitive game I like to lower the graphics settings to medium so there are fewer effects on the screen that distract me.
 ##### Q&A
 >  🔥*Why the non-X CPU variant?*
 >  Temperature and noise is something that I am constantly concerned about. Before this PC, I played games only on laptops while using silent mode because these are getting hot and loud really fast, and that annoyed me.
@@ -31,6 +31,6 @@ The PC is working really good and I can play most of the newly released games at
 > 
 > 🔥 I helped a friend with solving his FPS problems on his PC, he needed an storage upgrade because he was using an old HDD. The only option was to get an SATA SSD because his motherboard doesn't have M2 slots.
 > Now for the stupid thing, I asked him if he needed SATA cables for the new SSD, and I gave him SATA cables from my modular PSU. When he installed the SSD with my instruction and with my cables, the SSD died 😢
-> Now I know that PSU cables are not universal.
+> Now I know that PSU cables are not universal. It was my mistake and I paid him for a new SSD. 
 
 Feel free to ask me things or leave comments for PC topics. 🎮

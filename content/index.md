@@ -1,7 +1,7 @@
 ---
 title: 🏠 Home
 ---
-Welcome to my website created by using ![[obsidian-logo-gradient.png|15]][Obsidian](https://obsidian.md/) and 🌱[Quartz](https://quartz.jzhao.xyz/), and published with ![[vercel-logo.png|15]] [Vercel](https://vercel.com/).
+Welcome to my website created by using ![[obsidian-logo-gradient.png|15]][Obsidian](https://obsidian.md/) and 🌱[Quartz](https://quartz.jzhao.xyz/), and published with ![[vercel-logo.png|15]] [Vercel](https://vercel.com/). This website is far from complete but you can take a look through it and we can have a chat about it.
 
 I am a 25-year-old ***Quality Control Tester***, armed with a Master's degree in Computer Science and Pedagogy and with over **4 years** of work experience in ensuring the utmost standards of software quality and performance.
 
